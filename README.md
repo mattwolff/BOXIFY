@@ -1,7 +1,7 @@
 # [BOXIFY](https://mattwolff.github.io/BOXIFY/)
 
 
-This is a simple [bookmarklet](http://bookmarklets.com/) to show the what box model looks like around the web.
+This is a simple [bookmarklet](http://bookmarklets.com/). It shows what the box model looks like around the web. BOX BOX BOX BOX.
 
 ---
 
