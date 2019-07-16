@@ -8,7 +8,13 @@
   <link rel="stylesheet" href="boxify.css">
 </head>
 <body class="boxifier">
-  <h2>Drag <a href="javascript:(function(){let all=document.querySelectorAll(`*`);for(let i=0;i<all.length;i+=1){let colors=[`red`,`blue`,`lime`,`pink`,`yellow`,`black`,`cyan`,`magenta`,`blueviolet`];let randomColor=Math.floor(Math.random()*colors.length);let chosenColor=colors[randomColor];all[i].style.border=`2px solid ${ chosenColor }`}})();">BOXIFY</a> to your bookmarks bar.</h2>
+  <p>
+    Drag <a href="javascript:(function(){let all=document.querySelectorAll(`*`);for(let i=0;i<all.length;i+=1){let colors=[`red`,`blue`,`lime`,`pink`,`yellow`,`black`,`cyan`,`magenta`,`blueviolet`];let randomColor=Math.floor(Math.random()*colors.length);let chosenColor=colors[randomColor];all[i].style.border=`2px solid ${ chosenColor }`}})();">BOXIFY</a> to your bookmarks bar.
+  </p>
+
+  <div id="secret">
+
+  </div>
 
   <!--
     Check out the file boxify.js
