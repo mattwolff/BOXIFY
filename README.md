@@ -12,5 +12,5 @@ This is a simple [bookmarklet](http://bookmarklets.com/) to show the what box mo
 ---
 
 ## FAQ
-- ...What?
+- ...What?   
 What...?
